@@ -1,4 +1,4 @@
-﻿MSOA Code,MSOA Name,house_mean_price,crime_rate,PM_index
+﻿MSOA Code,MSOA Name,house_mean_price,crime_rate,NOx_index
 E02000001,City of London 001,533880,,187
 E02000002,Barking and Dagenham 001,191292,77,74
 E02000003,Barking and Dagenham 002,197186,77,82
@@ -983,5 +983,3 @@ E02000981,Westminster 022,815800,84,146
 E02000982,Westminster 023,1038693,238,158
 E02000983,Westminster 024,693048,52,137
 ,MSOA average for London,395714.6,85.8,#N/A
-,,,,
-,,,,
