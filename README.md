@@ -1,2 +1,5 @@
-# Dissertation_Analysis
- CASA_MSc_Dissertation
+# CASA_Dissertation
+## Study of the Relationship between the Street Centrality and the Housing Market in Greater London
+This project investigates whether there is a relationship between the street centrality and the housing price in the Greater London area. The average closeness centrality index and average betweenness centrality index have been calculated in a distance-weighted driving street network and taken as part of the locational variables in the hedonic pricing model to estimate the influence on the average housing price of Middle Super Output Area (MSOA). The hedonic pricing model is firstly estimated as an OLS regression model. The average closeness centrality index shows a strong influence on the housing price whereas the average betweenness centrality has an opposite result. The spatial autocorrelation has also been studied with the Spatial Lag model. The R-squared value in the OLS regression model and the rho value in the Spatial Lag regression model proves that the models are fitting well. Overall, the research questions have been studied and this research would not only fill the relevant research gap in the Greater London area but help have a more thorough understanding of the urban characteristics of the city. Multiple limitations have been discussed at last and the future direction of the research has been outlooked.
+
+The analysis part and the dissertation itself can be found in this repository.
